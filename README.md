@@ -12,7 +12,7 @@ It provides an interactive interface where users can enter keywords and explore 
 - 🔍 Keyword-based filtering of reviews
 - 👍👎 Sentiment analysis (Positive / Negative)
 - 🌐 Interactive web app using Streamlit
-- 📈 Visualizations:mv ~/Desktop/screenshot.png ~/movie-review-analyzer/
+- 📈 Visualizations:mv 
   - Bar Chart
   - Pie Chart
   - Word Cloud
