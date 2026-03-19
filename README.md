@@ -32,6 +32,10 @@ It provides an interactive web interface where users can enter keywords and expl
 * WordCloud
 
 ---
+# 🎬 IMDb Movie Review Analyzer (Streamlit + NLP)
+
+## 🌐 Live Demo
+👉 https://movie-review-analyzer-azvczeappxllmez7avogjjs.streamlit.app/
 
 ## ▶️ How to Run
 
